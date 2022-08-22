@@ -44,10 +44,10 @@ To complete all of your work assignments, you'll need to write four functions:
   }
   ```
 
-- `distanceFromHqInFeet`: Returns the number of feet from Scuber's headquarters
+- `distanceFromHqInFeet`: Returns the number of feet from Scuber's is:
+headquarters
   to the pickup location. Use your `distanceFromHqInBlocks` function to
-  help return the correct value here. Try something like this:
-
+  help return the correct value here. Try something like th
 ```js
 function distanceFromHqInFeet(someValue) {
   distanceFromHqInBlocks(someValue);
@@ -64,7 +64,7 @@ function distanceFromHqInFeet(someValue) {
   long.
 
   ```js
-  function distanceTravelledInFeet(start, destination) {
+  function distanc eTravelledInFeet(start, destination) {
     //returns the number of feet traveled
   }
   ```
